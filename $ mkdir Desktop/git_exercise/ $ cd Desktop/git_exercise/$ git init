@@ -1,0 +1,5 @@
+git config --global user.name "ArseniyGorodilov"
+git config --global user.email arseniigorodilov22@gmail.com
+$ mkdir Desktop/git_exercise/
+$ cd Desktop/git_exercise/
+$ git init
